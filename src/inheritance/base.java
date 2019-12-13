@@ -6,7 +6,7 @@ class parent
    char c ;
    void setx(int b1)
    {
-	 System.out.println("i am the base class of set method  one");  
+	 System.out.println("i am  the base class of set method  one");  
    }
 }
    class child extends parent
